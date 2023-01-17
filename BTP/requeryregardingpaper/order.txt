@@ -1,0 +1,6 @@
+Dataset Req ->Wspire/mobiphone
+
+
+What does train_n and train_w mean?
+order of execution -> Dataset structuring training testing 
+how should be Mobiphone be structured

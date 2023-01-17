@@ -1,0 +1,13 @@
+Dataset Req ->Wspire/mobiphone
+
+What is order of files ? Gen -> 
+how should be Mobiphone be structured
+How model should be trained ?
+order of execution -> Dataset structuring training testing 
+
+Model -> Why after lstm sigmoid activation is applied?
+Noise -> Added Noise to the recordings
+My Changes:
+Data generator -> Data train is not required,i give straight path
+    - get item change 5 to len(device_num)
+get model -> change category from 5 to 21
