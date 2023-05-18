@@ -59,3 +59,5 @@ The auxiliary task is incorporated to further improve the model's performance. B
 |Kernel size optimization |82.89%| 81.01%|
 |Loss Weightage Optimization| 82.6% |80.2%|
 |Best 3 out of 6 Model |87.5% |86.9%|
+## Dashboard
+All the runs have been monitored using dashboard with the most optimal performance being shared here https://api.wandb.ai/links/devansh/zz48izf7 .
